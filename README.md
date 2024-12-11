@@ -1,7 +1,3 @@
-Here’s an improved and engaging description for your GitHub repository:
-
----
-
 ## **Counter Application**
 
 The **Counter Application** is a sleek and interactive web app designed to perform basic counter operations like incrementing, decrementing, and resetting values. This beginner-friendly project is perfect for showcasing fundamental web development skills while creating a user-friendly experience.
